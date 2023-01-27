@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wwng2333;
 - 👀 I’m interested in cnc machining.
-- 🌱 I’m currently learning usts.
+- 🌱 I’m currently learning at usts.
 - 💞️ I’m looking to collaborate on study.
 - 📫 How to reach me : none
 
