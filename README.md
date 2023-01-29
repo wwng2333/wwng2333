@@ -1,5 +1,5 @@
 
-[![Top Langs](https://github-readme-stats-phi-two-42.vercel.app/api/top-langs/?locale=cn&layout=compact&username=wwng2333&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-phi-two-42.vercel.app/api/top-langs/?locale=cn&layout=compact&username=wwng2333&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![wwng's GitHub stats](https://github-readme-stats-phi-two-42.vercel.app/api/?username=wwng2333&show_icons=true&locale=cn)
 
