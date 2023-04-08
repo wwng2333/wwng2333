@@ -1,10 +1,13 @@
 ## My GitHub Stats
-![wwng's GitHub stats](https://github-readme-stats.vercel.app/api/?username=wwng2333&show_icons=true)
+[![](https://raw.githubusercontent.com/wwng2333/github-profile-summary-cards/master/profile-summary-card-output/vision_friendly_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/wwng2333/github-profile-summary-cards/master/profile-summary-card-output/vision_friendly_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wwng2333/github-profile-summary-cards/master/profile-summary-card-output/vision_friendly_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/wwng2333/github-profile-summary-cards/master/profile-summary-card-output/vision_friendly_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wwng2333/github-profile-summary-cards/master/profile-summary-card-output/vision_friendly_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ## Languages
 
 ![](https://img.shields.io/badge/-PHP-3178C6?style=for-the-badge&logo=php&logoColor=white)
 ## Learning now
 ![](https://img.shields.io/badge/-rust-007396?style=for-the-badge&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ## Operation Skills
 ![](https://img.shields.io/badge/-linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/-Github%20Actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white)
