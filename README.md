@@ -9,6 +9,7 @@
 ## Learning now
 ![](https://img.shields.io/badge/-rust-007396?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ## Operation Skills
 ![](https://img.shields.io/badge/-linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/-Github%20Actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white)
